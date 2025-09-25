@@ -88,15 +88,3 @@ npm run preview
 
 - You can update mock data in `src/assets/db/*.json` for announcements, courses, events, faculty, messages, and users.
 - UI components can be customized in `src/views/`.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE.md` for details.
-
-## Credits
-
-- Inspired by Flowbite Vue Starter and enhanced for a college portal use case.
-
----
-
-For any issues or contributions, please open an issue or pull request on [GitHub](https://github.com/keshavkhatri/vue-demo).
