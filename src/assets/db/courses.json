@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Science 101",
+    "description": "Introduction to Computer Science.",
+    "faculty": "Dr. Smith",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Mathematics 201",
+    "description": "Advanced Mathematics for Engineers.",
+    "faculty": "Dr. Jane",
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Business Administration",
+    "description": "Principles of management and entrepreneurship.",
+    "faculty": "Prof. Lee",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Physics 101",
+    "description": "Fundamentals of Physics.",
+    "faculty": "Dr. Kumar",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Chemistry 101",
+    "description": "Basics of Chemistry.",
+    "faculty": "Dr. Patel",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Biology 101",
+    "description": "Introduction to Biology.",
+    "faculty": "Dr. Gupta",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "English Literature",
+    "description": "Study of classic and modern literature.",
+    "faculty": "Dr. Brown",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "History",
+    "description": "World history and civilizations.",
+    "faculty": "Dr. Singh",
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Political Science",
+    "description": "Government and politics.",
+    "faculty": "Dr. Clark",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Economics",
+    "description": "Micro and macroeconomics.",
+    "faculty": "Dr. Evans",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Psychology",
+    "description": "Introduction to psychology.",
+    "faculty": "Dr. Carter",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Sociology",
+    "description": "Study of society and social behavior.",
+    "faculty": "Dr. Lewis",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Philosophy",
+    "description": "Philosophical thought and ethics.",
+    "faculty": "Dr. Walker",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Art & Design",
+    "description": "Creative arts and design principles.",
+    "faculty": "Dr. Hall",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Music",
+    "description": "Music theory and practice.",
+    "faculty": "Dr. Allen",
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Environmental Science",
+    "description": "Ecology and environment studies.",
+    "faculty": "Dr. Young",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Statistics",
+    "description": "Statistical methods and analysis.",
+    "faculty": "Dr. King",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Geography",
+    "description": "Physical and human geography.",
+    "faculty": "Dr. Wright",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 19,
+    "name": "French Language",
+    "description": "French language and culture.",
+    "faculty": "Dr. Lopez",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Physical Education",
+    "description": "Fitness and sports training.",
+    "faculty": "Dr. Hill",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  }
+]

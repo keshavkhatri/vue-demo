@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Semester Begins",
+    "content": "The new semester starts on October 1st.",
+    "date": "2025-09-25"
+  },
+  {
+    "id": 2,
+    "title": "Guest Lecture",
+    "content": "Join us for a guest lecture by Dr. Jane on October 5th.",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 3,
+    "title": "Library Renovation",
+    "content": "Library will be closed for renovation from Oct 10-20.",
+    "date": "2025-09-30"
+  },
+  {
+    "id": 4,
+    "title": "Scholarship Applications",
+    "content": "Apply for scholarships before Nov 1.",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 5,
+    "title": "Sports Meet Registration",
+    "content": "Register for the annual sports meet.",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 6,
+    "title": "Tech Fest Volunteers",
+    "content": "Sign up to volunteer for Tech Fest.",
+    "date": "2025-10-10"
+  },
+  {
+    "id": 7,
+    "title": "Exam Timetable",
+    "content": "Check the updated exam schedule.",
+    "date": "2025-10-15"
+  },
+  {
+    "id": 8,
+    "title": "New Cafeteria Menu",
+    "content": "Try our new healthy menu options.",
+    "date": "2025-10-20"
+  },
+  {
+    "id": 9,
+    "title": "Blood Donation Camp",
+    "content": "Participate in the blood donation camp.",
+    "date": "2025-10-25"
+  },
+  {
+    "id": 10,
+    "title": "Alumni Meet",
+    "content": "Alumni meet scheduled for Nov 5.",
+    "date": "2025-10-30"
+  },
+  {
+    "id": 11,
+    "title": "Book Fair",
+    "content": "Annual book fair on Dec 1.",
+    "date": "2025-11-01"
+  },
+  {
+    "id": 12,
+    "title": "Photography Contest",
+    "content": "Submit your entries by Nov 10.",
+    "date": "2025-11-05"
+  },
+  {
+    "id": 13,
+    "title": "Drama Night",
+    "content": "Drama performances on Nov 15.",
+    "date": "2025-11-10"
+  },
+  {
+    "id": 14,
+    "title": "Quiz Bowl",
+    "content": "Quiz Bowl registration open.",
+    "date": "2025-11-15"
+  },
+  {
+    "id": 15,
+    "title": "Environmental Day",
+    "content": "Join us for campus clean-up.",
+    "date": "2025-11-20"
+  },
+  {
+    "id": 16,
+    "title": "Career Fair",
+    "content": "Meet recruiters on Nov 25.",
+    "date": "2025-11-25"
+  },
+  {
+    "id": 17,
+    "title": "Health Camp",
+    "content": "Free health checkups on Dec 5.",
+    "date": "2025-12-05"
+  },
+  {
+    "id": 18,
+    "title": "Winter Break",
+    "content": "Winter break starts Dec 20.",
+    "date": "2025-12-10"
+  },
+  {
+    "id": 19,
+    "title": "Admissions Open",
+    "content": "Admissions for 2026 now open.",
+    "date": "2025-12-15"
+  },
+  {
+    "id": 20,
+    "title": "New Research Lab",
+    "content": "AI research lab inaugurated.",
+    "date": "2025-12-20"
+  }
+]

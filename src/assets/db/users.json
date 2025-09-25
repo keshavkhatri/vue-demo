@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "student",
+    "name": "John Doe",
+    "email": "john@student.edu",
+    "password": "123456"
+  },
+  {
+    "id": 2,
+    "role": "faculty",
+    "name": "Dr. Smith",
+    "email": "smith@faculty.edu",
+    "password": "abcdef"
+  }
+]

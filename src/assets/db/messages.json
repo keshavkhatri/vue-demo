@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome!",
+    "content": "Your registration is successful.",
+    "from": "Admin",
+    "date": "2025-09-25"
+  },
+  {
+    "id": 2,
+    "title": "Assignment Due",
+    "content": "Submit your assignment by next week.",
+    "from": "Dr. Smith",
+    "date": "2025-09-26"
+  },
+  {
+    "id": 3,
+    "title": "Event Reminder",
+    "content": "Don't miss the Tech Fest on Nov 15.",
+    "from": "Admin",
+    "date": "2025-09-27"
+  },
+  {
+    "id": 4,
+    "title": "Library Notice",
+    "content": "Library will be closed for renovation.",
+    "from": "Admin",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 5,
+    "title": "Sports Meet",
+    "content": "Register for the sports meet.",
+    "from": "Dr. Kumar",
+    "date": "2025-09-29"
+  },
+  {
+    "id": 6,
+    "title": "Quiz Bowl",
+    "content": "Quiz Bowl registration open.",
+    "from": "Dr. Jane",
+    "date": "2025-09-30"
+  },
+  {
+    "id": 7,
+    "title": "Drama Night",
+    "content": "Drama performances on Nov 15.",
+    "from": "Prof. Lee",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 8,
+    "title": "Photography Contest",
+    "content": "Submit your entries by Nov 10.",
+    "from": "Admin",
+    "date": "2025-10-02"
+  },
+  {
+    "id": 9,
+    "title": "Blood Donation Camp",
+    "content": "Participate in the blood donation camp.",
+    "from": "Admin",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 10,
+    "title": "Book Fair",
+    "content": "Annual book fair on Dec 1.",
+    "from": "Admin",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 11,
+    "title": "Alumni Meet",
+    "content": "Alumni meet scheduled for Nov 5.",
+    "from": "Admin",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 12,
+    "title": "Exam Timetable",
+    "content": "Check the updated exam schedule.",
+    "from": "Admin",
+    "date": "2025-10-06"
+  },
+  {
+    "id": 13,
+    "title": "New Cafeteria Menu",
+    "content": "Try our new healthy menu options.",
+    "from": "Admin",
+    "date": "2025-10-07"
+  },
+  {
+    "id": 14,
+    "title": "Scholarship Applications",
+    "content": "Apply for scholarships before Nov 1.",
+    "from": "Admin",
+    "date": "2025-10-08"
+  },
+  {
+    "id": 15,
+    "title": "Environmental Day",
+    "content": "Join us for campus clean-up.",
+    "from": "Admin",
+    "date": "2025-10-09"
+  },
+  {
+    "id": 16,
+    "title": "Career Fair",
+    "content": "Meet recruiters on Nov 25.",
+    "from": "Admin",
+    "date": "2025-10-10"
+  },
+  {
+    "id": 17,
+    "title": "Health Camp",
+    "content": "Free health checkups on Dec 5.",
+    "from": "Admin",
+    "date": "2025-10-11"
+  },
+  {
+    "id": 18,
+    "title": "Winter Break",
+    "content": "Winter break starts Dec 20.",
+    "from": "Admin",
+    "date": "2025-10-12"
+  },
+  {
+    "id": 19,
+    "title": "Admissions Open",
+    "content": "Admissions for 2026 now open.",
+    "from": "Admin",
+    "date": "2025-10-13"
+  },
+  {
+    "id": 20,
+    "title": "New Research Lab",
+    "content": "AI research lab inaugurated.",
+    "from": "Admin",
+    "date": "2025-10-14"
+  }
+]

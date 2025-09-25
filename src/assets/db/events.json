@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Orientation Day",
+    "description": "Welcome event for new students.",
+    "date": "2025-10-01",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Tech Fest",
+    "description": "Annual technology festival.",
+    "date": "2025-11-15",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Guest Lecture: AI",
+    "description": "Dr. Jane presents on Artificial Intelligence.",
+    "date": "2025-10-10",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Sports Meet",
+    "description": "Inter-college sports competition.",
+    "date": "2025-12-05",
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Art Exhibition",
+    "description": "Annual art and design showcase.",
+    "date": "2025-10-20",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Music Concert",
+    "description": "Live music by college bands.",
+    "date": "2025-11-01",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Science Fair",
+    "description": "Student science projects and demos.",
+    "date": "2025-11-10",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Business Summit",
+    "description": "Talks by industry leaders.",
+    "date": "2025-12-01",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Math Olympiad",
+    "description": "Inter-college math competition.",
+    "date": "2025-10-25",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Coding Hackathon",
+    "description": "24-hour coding challenge.",
+    "date": "2025-11-20",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Career Fair",
+    "description": "Meet recruiters and explore jobs.",
+    "date": "2025-12-10",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Robotics Workshop",
+    "description": "Hands-on robotics training.",
+    "date": "2025-10-30",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Photography Contest",
+    "description": "Showcase your best photos.",
+    "date": "2025-11-05",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Debate Competition",
+    "description": "Debate on current topics.",
+    "date": "2025-12-15",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Drama Night",
+    "description": "Student drama performances.",
+    "date": "2025-10-15",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Quiz Bowl",
+    "description": "General knowledge quiz.",
+    "date": "2025-11-25",
+    "image": "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Environmental Day",
+    "description": "Eco-friendly campus activities.",
+    "date": "2025-12-20",
+    "image": "https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Alumni Meet",
+    "description": "Reconnect with alumni.",
+    "date": "2025-10-05",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Health Camp",
+    "description": "Free health checkups.",
+    "date": "2025-11-30",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Book Fair",
+    "description": "Buy and exchange books.",
+    "date": "2025-12-25",
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80"
+  }
+]

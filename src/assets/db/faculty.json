@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Smith",
+    "email": "smith@faculty.edu",
+    "department": "Computer Science",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane",
+    "email": "jane@faculty.edu",
+    "department": "Mathematics",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Prof. Lee",
+    "email": "lee@faculty.edu",
+    "department": "Business Administration",
+    "image": "https://randomuser.me/api/portraits/men/65.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Kumar",
+    "email": "kumar@faculty.edu",
+    "department": "Physics",
+    "image": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Patel",
+    "email": "patel@faculty.edu",
+    "department": "Chemistry",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Gupta",
+    "email": "gupta@faculty.edu",
+    "department": "Biology",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Brown",
+    "email": "brown@faculty.edu",
+    "department": "English Literature",
+    "image": "https://randomuser.me/api/portraits/men/47.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Singh",
+    "email": "singh@faculty.edu",
+    "department": "History",
+    "image": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Clark",
+    "email": "clark@faculty.edu",
+    "department": "Political Science",
+    "image": "https://randomuser.me/api/portraits/men/49.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Evans",
+    "email": "evans@faculty.edu",
+    "department": "Economics",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Carter",
+    "email": "carter@faculty.edu",
+    "department": "Psychology",
+    "image": "https://randomuser.me/api/portraits/men/51.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Lewis",
+    "email": "lewis@faculty.edu",
+    "department": "Sociology",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Walker",
+    "email": "walker@faculty.edu",
+    "department": "Philosophy",
+    "image": "https://randomuser.me/api/portraits/men/53.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Hall",
+    "email": "hall@faculty.edu",
+    "department": "Art & Design",
+    "image": "https://randomuser.me/api/portraits/men/54.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Allen",
+    "email": "allen@faculty.edu",
+    "department": "Music",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Young",
+    "email": "young@faculty.edu",
+    "department": "Environmental Science",
+    "image": "https://randomuser.me/api/portraits/men/56.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dr. King",
+    "email": "king@faculty.edu",
+    "department": "Statistics",
+    "image": "https://randomuser.me/api/portraits/men/57.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Wright",
+    "email": "wright@faculty.edu",
+    "department": "Geography",
+    "image": "https://randomuser.me/api/portraits/men/58.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Lopez",
+    "email": "lopez@faculty.edu",
+    "department": "French Language",
+    "image": "https://randomuser.me/api/portraits/men/59.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Hill",
+    "email": "hill@faculty.edu",
+    "department": "Physical Education",
+    "image": "https://randomuser.me/api/portraits/men/60.jpg"
+  }
+]
